@@ -1,0 +1,37 @@
+body {
+    background-image: url('./images/road.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+@media screen and (max-width: 767px) and (min-width: 480px) {
+    body {
+        background-position-x: 200px;
+    }
+}
+.main-content {
+    border: solid 2px white;
+    margin-top: 200px;
+    background: rgb(209, 143, 96);
+    padding-bottom: 10px;
+}
+.about {
+    background: grey;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+#work-img {
+    width: 200px;
+    height: 200px;
+}
+.navbar {
+background-color: rgb(209, 143, 96);
+}
+
+.nav-link {
+    color: white;
+}
+.navbar-brand {
+    color: white;
+}

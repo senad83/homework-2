@@ -1,0 +1,26 @@
+body {
+    background-image: url('./images/road.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.names {
+    color: whitesmoke;
+    background-color: rgb(228, 209, 209, 0.4);
+}
+
+.navbar {
+    background-color: rgb(209, 143, 96);
+    margin-bottom: 20px ;
+    }
+    
+    .nav-link {
+        color: white;
+    }
+    .navbar-brand {
+        color: white;
+    }
+
+   
+    
